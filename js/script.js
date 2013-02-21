@@ -12,7 +12,7 @@
 	    // Get data
 	    function getData(map) {
 			m = map;
-			mmg_google_docs('0Agz3kF-4PjNPdHRqQldhSUNsLVpZYURucE0tUEYxclE', mapData);
+			mmg_google_docs('0AiQ776Ot1CjIdHVaZVp2Zk53cWdUU1Z0M0tPblI5Smc', mapData);
 		}
 		
 		// Build map
