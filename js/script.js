@@ -4,7 +4,7 @@
 		var markers;
 		var features;
 	    
-	   mapbox.auto('map', 'nate.map-mjvvnjm5', getData) 
+	   mapbox.auto('map', 'washadvocates.map-bbfizh0g', getData) 
 		
 		var interaction = mapbox.interaction();
 			interaction.map(map);
